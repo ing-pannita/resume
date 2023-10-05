@@ -82,12 +82,14 @@
         </div>
       </div>
       <div class="row"><!--row3-->
-        <div class="col-lg-6 px-5 order-md-sm-2">
+        <div class="col-lg-6 px-5 order-lg-2">
           <div>
             <h2>Skills</h2>
-            <img src="Images/skill.png" class="img-fluid" height="250" width="250"></div>
+            <img src="Images/skill.png" class="img-fluid" height="250"
+
+              width="250"></div>
         </div>
-        <div class="col-lg-6 px-5 order-md-sm-1">
+        <div class="col-lg-6 px-5 order-lg-1">
           <div>
             <p><img src="Images/fb.png" class="img-fluid" height="50" width="50">
               <a href="https://m.facebook.com/pannita.nakseekram.5?eav=AfYOY4iVvU3Pk6oYEKVKGs-WYaJEIqOmQsPVgB5VqZ5wsGqdznbjnJ1Kkr1nYnA0nUE&amp;paipv=0"
